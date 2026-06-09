@@ -21,7 +21,7 @@ An interactive Power BI dashboard built to analyze Motorola mobile sales perform
 
 # Dashboard Preview
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](Screenshot/dashboard-overview.png)
 
 # Project Files
 
